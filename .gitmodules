@@ -35,3 +35,6 @@
 [submodule "lib/guardpp"]
 	path = lib/guardpp
 	url = https://github.com/Soundux/guardpp
+[submodule "src/ui/impl/webview/lib/webviewpp/lib/json"]
+	path = src/ui/impl/webview/lib/webviewpp/lib/json
+	url = https://github.com/nlohmann/json.git
